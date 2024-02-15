@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-docker-k8s",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinklju/hello-world-docker-k8s.git"
+  },
+  "author": "jules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brinklju/hello-world-docker-k8s/issues"
+  },
+  "homepage": "https://github.com/brinklju/hello-world-docker-k8s#readme"
+}
